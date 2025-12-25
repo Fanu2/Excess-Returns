@@ -1,8 +1,3 @@
-I wasn’t able to find an **official transcript or detailed web summary of the exact video you shared ([https://youtu.be/ee_wPgjMRjQ](https://youtu.be/ee_wPgjMRjQ))**, but based on multiple **verified interviews and talks by Sankaran Naren (CIO of ICICI Prudential)** — which contain overlapping content and themes — I can give you a **well-informed, evidence-based gist of the likely main points** from that video. ([YouTube][1])
-
-Below is a **`README.md` style summary** of the key investing principles Sankaran Naren typically shares in such conversations, with **specific examples where quoted in similar talks**:
-
----
 
 ```markdown
 # Key Takeaways — Sankaran Naren’s Investing Wisdom (Video Summary)
